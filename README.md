@@ -1,6 +1,14 @@
-# Hello, I'm [Christian](https://christiantorres.me/)
+# Hello, I'm [Christian](https://christiantorres.me/) 🇳🇮
 
 Software Engineer at [NicaSource](https://nicasource.com)
+
+<a href="https://nicasource.com" rel="nofollow" target="_blank">
+  <img src="https://github.com/chrux/chrux/raw/main/ns-logo.png"
+  height="150"
+  alt="NicaSource" />
+</a>
+
+<br /><br />
 
 **Skills:**
 
@@ -17,6 +25,9 @@ Software Engineer at [NicaSource](https://nicasource.com)
 
 ### 📨 Get in touch
 
-[site]: https://christiantorres.me/
+- Site: [christiantorres.me](https://christiantorres.me/)
+- Twitter: [@chrux](https://twitter.com/chrux)
+- LinkedIn: [chrux](https://www.linkedin.com/in/chrux/)
+
 
 ![Christian Torres's github stats](https://github-readme-stats.vercel.app/api?username=chrux&show_icons=true&hide_border=true&theme=tokyonight)
