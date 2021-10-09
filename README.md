@@ -1,6 +1,6 @@
-# Hello, I'm [Christian](https://christiantorres.me/) 🇳🇮
+# Hello, I'm [Christian](https://christiantorres.me/), Software Engineer.
 
-Software Engineer at [NicaSource](https://nicasource.com)
+Senior Engineering Manager at [NicaSource](https://nicasource.com)
 
 <a href="https://nicasource.com" rel="nofollow" target="_blank">
   <img src="https://github.com/chrux/chrux/raw/main/ns-logo.png"
